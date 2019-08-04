@@ -9,6 +9,11 @@ function writeCards(array, gift) {
   return newArray;
 }
 
-function countdown() {
-
+// countdown from a given number and console.log each step in the loop
+function countdown(number) {
+  let i = number;
+  while (i >= 0) {
+    console.log(i)
+    i--
+  }
 }
