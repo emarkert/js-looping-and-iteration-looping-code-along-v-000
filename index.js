@@ -10,5 +10,5 @@ function writeCards(array, gift) {
 }
 
 function countdown() {
-  
+
 }
